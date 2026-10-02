@@ -11,6 +11,7 @@ My Data Structures and Algorithms practice in C++
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Sanjna41/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Sanjna41/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanjna41/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Graph Theory
@@ -31,10 +33,15 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Sanjna41/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanjna41/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanjna41/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Sanjna41/DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
