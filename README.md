@@ -51,6 +51,7 @@ My Data Structures and Algorithms practice in C++
 | [0032-longest-valid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Sanjna41/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Sanjna41/DSA/tree/main/0127-word-ladder/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Sanjna41/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Sanjna41/DSA/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjna41/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -69,6 +70,7 @@ My Data Structures and Algorithms practice in C++
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Sanjna41/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/Sanjna41/DSA/tree/main/0126-word-ladder-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ My Data Structures and Algorithms practice in C++
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Sanjna41/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Sanjna41/DSA/tree/main/0127-word-ladder/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Sanjna41/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanjna41/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanjna41/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
