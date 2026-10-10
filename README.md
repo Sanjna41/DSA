@@ -10,6 +10,7 @@ My Data Structures and Algorithms practice in C++
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanjna41/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sanjna41/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -109,11 +110,13 @@ My Data Structures and Algorithms practice in C++
 | [0678-valid-parenthesis-string](https://github.com/Sanjna41/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjna41/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sanjna41/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@ My Data Structures and Algorithms practice in C++
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanjna41/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +168,8 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
