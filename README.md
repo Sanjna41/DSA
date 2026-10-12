@@ -12,6 +12,7 @@ My Data Structures and Algorithms practice in C++
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanjna41/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sanjna41/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ My Data Structures and Algorithms practice in C++
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/Sanjna41/DSA/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/Sanjna41/DSA/tree/main/0127-word-ladder/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ My Data Structures and Algorithms practice in C++
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanjna41/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sanjna41/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +180,8 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanjna41/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 <!---LeetCode Topics End-->
