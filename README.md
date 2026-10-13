@@ -8,6 +8,7 @@ My Data Structures and Algorithms practice in C++
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanjna41/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Sanjna41/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sanjna41/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -189,4 +190,8 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Sanjna41/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sanjna41/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
