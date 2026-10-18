@@ -9,6 +9,7 @@ My Data Structures and Algorithms practice in C++
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanjna41/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjna41/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Sanjna41/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -28,6 +29,7 @@ My Data Structures and Algorithms practice in C++
 | [0678-valid-parenthesis-string](https://github.com/Sanjna41/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanjna41/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanjna41/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanjna41/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
@@ -143,6 +145,7 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -208,6 +211,7 @@ My Data Structures and Algorithms practice in C++
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sanjna41/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -219,4 +223,32 @@ My Data Structures and Algorithms practice in C++
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanjna41/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sanjna41/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
