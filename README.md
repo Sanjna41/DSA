@@ -23,6 +23,7 @@ My Data Structures and Algorithms practice in C++
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Sanjna41/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sanjna41/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sanjna41/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
