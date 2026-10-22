@@ -23,20 +23,15 @@ public:
         if (rotated == target) {
             res = min({res, k, n - k + 2});
         }
-
         vector<int> rev_nums(nums.rbegin(), nums.rend());
-
         auto rev_it = find(rev_nums.begin(), rev_nums.end(), 0);
         int k_rev = rev_it - rev_nums.begin();
-
         rotated.clear();
         rotated.insert(rotated.end(), rev_nums.begin() + k_rev, rev_nums.end());
         rotated.insert(rotated.end(), rev_nums.begin(), rev_nums.begin() + k_rev);
-
         if (rotated == target) {
             res = min({res, k_rev + 1, n - k_rev + 1});
         }
-
         return res == INT_MAX ? -1 : res;
     }
 };
