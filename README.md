@@ -20,6 +20,7 @@ My Data Structures and Algorithms practice in C++
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanjna41/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sanjna41/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sanjna41/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sanjna41/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Sanjna41/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sanjna41/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -208,6 +209,7 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sanjna41/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
