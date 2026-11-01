@@ -6,6 +6,7 @@ My Data Structures and Algorithms practice in C++
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanjna41/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Sanjna41/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanjna41/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sanjna41/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -242,6 +243,7 @@ My Data Structures and Algorithms practice in C++
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sanjna41/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Sanjna41/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sanjna41/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
