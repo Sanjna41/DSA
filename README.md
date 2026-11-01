@@ -71,6 +71,7 @@ My Data Structures and Algorithms practice in C++
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanjna41/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanjna41/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sanjna41/DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sanjna41/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ My Data Structures and Algorithms practice in C++
 | [2409-count-days-spent-together](https://github.com/Sanjna41/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sanjna41/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sanjna41/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sanjna41/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ My Data Structures and Algorithms practice in C++
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanjna41/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sanjna41/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +191,7 @@ My Data Structures and Algorithms practice in C++
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanjna41/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanjna41/DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanjna41/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sanjna41/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
