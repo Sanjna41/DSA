@@ -21,6 +21,7 @@ My Data Structures and Algorithms practice in C++
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanjna41/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sanjna41/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sanjna41/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sanjna41/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sanjna41/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sanjna41/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -43,6 +44,7 @@ My Data Structures and Algorithms practice in C++
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanjna41/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sanjna41/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sanjna41/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/Sanjna41/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sanjna41/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Matrix
@@ -122,6 +124,7 @@ My Data Structures and Algorithms practice in C++
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanjna41/DSA/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanjna41/DSA/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sanjna41/DSA/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sanjna41/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sanjna41/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -181,6 +184,7 @@ My Data Structures and Algorithms practice in C++
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanjna41/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Sanjna41/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sanjna41/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sanjna41/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sanjna41/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
@@ -250,6 +254,7 @@ My Data Structures and Algorithms practice in C++
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sanjna41/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/Sanjna41/DSA/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sanjna41/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sanjna41/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanjna41/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/Sanjna41/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -295,4 +300,8 @@ My Data Structures and Algorithms practice in C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sanjna41/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sanjna41/DSA/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 <!---LeetCode Topics End-->
